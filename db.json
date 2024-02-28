@@ -1,0 +1,16 @@
+{ 
+ "data" : [
+        { "id": "1", "rollno": "10", "name": "Satish", "marks": "83.3" },
+        { "id": "2", "rollno": "11", "name": "Nutan", "marks": "55.0" },
+        { "id": "3", "rollno": "12", "name": "Roopal", "marks": "38.2" },
+        { "id": "4", "rollno": "18", "name": "Sahil", "marks": "75.8" },
+        { "id": "5", "rollno": "19", "name": "Anish", "marks": "69.6" },
+        { "id": "6", "rollno": "20", "name": "Jeevan", "marks": "33.1" },
+        { "id": "7", "rollno": "21", "name": "Saurav", "marks": "56.4" },
+        { "id": "8", "rollno": "22", "name": "Leena", "marks": "87.5" },
+        { "id": "9", "rollno": "23", "name": "Neelam", "marks": "19.2" },
+        { "id": "10", "rollno": "25", "name": "Ganesh", "marks": "69.9" },
+        { "id": "11", "rollno": "27", "name": "Sarika", "marks": "64.2" },
+        { "id": "12", "rollno": "29", "name": "Rohan", "marks": "45.5" }
+        ]
+		}
